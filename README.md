@@ -1,6 +1,6 @@
-# Graph Clustering Network with Mutual Augmentation of Structure and Attribute
+# Deep Graph Clustering via Mutual Augmentation of Structure and Attribute
 
-An official source code for paper 'Graph Clustering Network with Mutual Augmentation of Structure and Attribute'. This repository is based on the unified framework for deep attribute graph clustering ([https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering](https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering)) .
+An official source code for paper 'Deep Graph Clustering via Mutual Augmentation of Structure and Attribute'. This repository is based on the unified framework for deep attribute graph clustering ([https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering](https://github.com/Marigoldwu/A-Unified-Framework-for-Deep-Attribute-Graph-Clustering)) .
 
 ## Overview
 
